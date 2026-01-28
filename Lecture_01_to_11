@@ -1,0 +1,98 @@
+Slide 1: Title Slide.......................................................................................
+Title: MACHINE LEARNING FUNDAMENTALS
+
+Subtitle: Lecture Series: Journey from Data to Intelligence (01–11)
+
+Presented by: Vishal Babar
+
+Date: January 2026
+
+Slide 2: Course Roadmap.......................................................................................
+Heading: What We Will Cover:
+
+The Basics: Introduction, AI vs. ML vs. DL, and Types of Learning.
+
+The Strategy: Batch vs. Online, Instance vs. Model-based Learning.
+
+The Real World: Challenges, Applications, and the MLDLC.
+
+The Tools: Data Science vs. ML, Tensors, and Python Hands-on.
+
+Slide 3: Lecture 01 | What is Machine Learning?..............................................................................................................
+Definition: "Field of study that gives computers the ability to learn without being explicitly programmed." — Arthur Samuel, 1959 The Shift:
+
+Traditional: Data + Rules → Output.
+
+Machine Learning: Data + Output → Rules (The Model).
+
+Slide 4: Lecture 02 | The "Intelligence" Hierarchy....................................................................................................................
+The Relationship:
+
+AI (The Goal): Machines simulating human intelligence.
+
+ML (The Approach): Statistical methods to learn from data.
+
+DL (The Technique): Using Multi-layer Neural Networks (Deep Learning). [Visual: Venn Diagram showing DL inside ML, and ML inside AI]
+
+Slide 5: Lecture 03 | Three Main Types of ML.........................................................................................................................
+Supervised: Learning with a teacher (Labeled data). Example: Spam Detection.
+
+Unsupervised: Finding hidden patterns (Unlabeled data). Example: Customer Grouping.
+
+Reinforcement: Learning by trial and error (Rewards/Penalties). Example: Gaming AI.
+
+Slide 6: Lecture 04 | Batch vs. Online Learning........................................................................................................................................................
+Batch (Offline): Learns from the whole dataset at once. Good for static data.
+
+Online (Incremental): Learns from data "on the fly." Best for stock prices and live streams.
+
+Slide 7: Lecture 05 | Memory vs. Logic.....................................................................................................................................
+Instance-Based (Lazy): Remembers all examples and compares new data to them (e.g., k-NN).
+
+Model-Based (Eager): Builds a mathematical formula (e.g., Linear Regression). Fast at predicting!
+
+Slide 8: Lecture 06 | Why ML Fails? (Challenges)....................................................................................................................
+Data Issues: Insufficient data, poor quality, or "Garbage In, Garbage Out."
+
+Algorithm Issues: * Overfitting: Learning the noise, not the pattern.
+
+Underfitting: Being too simple to see the pattern.
+
+Slide 9: Lecture 08 | The ML Life Cycle (MLDLC)..........................................................................................................................
+The 7-Step Process:
+
+Problem Definition 🎯
+
+Data Collection 📂
+
+Data Prep (80% of the effort!) 🛠️
+
+Model Building 🏗️
+
+Evaluation 📏
+
+Deployment 🚀
+
+Monitoring 📈
+
+Slide 10: Lecture 10 | What are Tensors?....................................................................................................................
+Tensors are the "Containers" of Data:
+
+Scalar: 0D (A single number).
+
+Vector: 1D (A list of numbers).
+
+Matrix: 2D (A table/grid).
+
+Tensor: 3D+ (A cube of data, like an RGB Image).
+
+Slide 11: Lecture 11 | The Python Ecosystem.................................................................................................................
+Essential Libraries for your Toolkit:
+
+NumPy: Math & Arrays.
+
+Pandas: The "Excel" of Python.
+
+Scikit-Learn: The Library for ML Algorithms.
+
+Matplotlib: For pretty graphs.
