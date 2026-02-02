@@ -1,0 +1,56 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3,"Braund, Mr. Owen Harris",male,22,1,0,A/5 21171,7.25,,S
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,71.2833,C85,C
+3,1,3,"Heikkinen, Miss. Laina",female,26,0,0,STON/O2. 3101282,7.925,,S
+4,0,2,Passenger 4,male,24,1,0,TKT44,16.0,,C
+5,1,3,Passenger 5,female,25,2,1,TKT55,17.5,,Q
+6,0,1,Passenger 6,male,26,0,0,TKT66,19.0,,S
+7,1,2,Passenger 7,female,27,1,1,TKT77,20.5,,C
+8,0,3,Passenger 8,male,28,2,0,TKT88,22.0,,Q
+9,1,1,Passenger 9,female,29,0,1,TKT99,23.5,,S
+10,0,2,Passenger 10,male,30,1,0,TKT110,25.0,,C
+11,1,3,Passenger 11,female,31,2,1,TKT121,26.5,,Q
+12,0,1,Passenger 12,male,32,0,0,TKT132,28.0,,S
+13,1,2,Passenger 13,female,33,1,1,TKT143,29.5,,C
+14,0,3,Passenger 14,male,34,2,0,TKT154,31.0,,Q
+15,1,1,Passenger 15,female,35,0,1,TKT165,32.5,,S
+16,0,2,Passenger 16,male,36,1,0,TKT176,34.0,,C
+17,1,3,Passenger 17,female,37,2,1,TKT187,35.5,,Q
+18,0,1,Passenger 18,male,38,0,0,TKT198,37.0,,S
+19,1,2,Passenger 19,female,39,1,1,TKT209,38.5,,C
+20,0,3,Passenger 20,male,40,2,0,TKT220,40.0,,Q
+21,1,1,Passenger 21,female,41,0,1,TKT231,41.5,,S
+22,0,2,Passenger 22,male,42,1,0,TKT242,43.0,,C
+23,1,3,Passenger 23,female,43,2,1,TKT253,44.5,,Q
+24,0,1,Passenger 24,male,44,0,0,TKT264,46.0,,S
+25,1,2,Passenger 25,female,45,1,1,TKT275,47.5,,C
+26,0,3,Passenger 26,male,46,2,0,TKT286,49.0,,Q
+27,1,1,Passenger 27,female,47,0,1,TKT297,50.5,,S
+28,0,2,Passenger 28,male,48,1,0,TKT308,52.0,,C
+29,1,3,Passenger 29,female,49,2,1,TKT319,53.5,,Q
+30,0,1,Passenger 30,male,20,0,0,TKT330,55.0,,S
+31,1,2,Passenger 31,female,21,1,1,TKT341,56.5,,C
+32,0,3,Passenger 32,male,22,2,0,TKT352,58.0,,Q
+33,1,1,Passenger 33,female,23,0,1,TKT363,59.5,,S
+34,0,2,Passenger 34,male,24,1,0,TKT374,61.0,,C
+35,1,3,Passenger 35,female,25,2,1,TKT385,62.5,,Q
+36,0,1,Passenger 36,male,26,0,0,TKT396,64.0,,S
+37,1,2,Passenger 37,female,27,1,1,TKT407,65.5,,C
+38,0,3,Passenger 38,male,28,2,0,TKT418,67.0,,Q
+39,1,1,Passenger 39,female,29,0,1,TKT429,68.5,,S
+40,0,2,Passenger 40,male,30,1,0,TKT440,70.0,,C
+41,1,3,Passenger 41,female,31,2,1,TKT451,71.5,,Q
+42,0,1,Passenger 42,male,32,0,0,TKT462,73.0,,S
+43,1,2,Passenger 43,female,33,1,1,TKT473,74.5,,C
+44,0,3,Passenger 44,male,34,2,0,TKT484,76.0,,Q
+45,1,1,Passenger 45,female,35,0,1,TKT495,77.5,,S
+46,0,2,Passenger 46,male,36,1,0,TKT506,79.0,,C
+47,1,3,Passenger 47,female,37,2,1,TKT517,80.5,,Q
+48,0,1,Passenger 48,male,38,0,0,TKT528,82.0,,S
+49,1,2,Passenger 49,female,39,1,1,TKT539,83.5,,C
+50,0,3,Passenger 50,male,40,2,0,TKT550,85.0,,Q
+51,1,1,Passenger 51,female,41,0,1,TKT561,86.5,,S
+52,0,2,Passenger 52,male,42,1,0,TKT572,88.0,,C
+53,1,3,Passenger 53,female,43,2,1,TKT583,89.5,,Q
+54,0,1,Passenger 54,male,44,0,0,TKT594,91.0,,S
+55,1,2,Passenger 55,female,45,1,1,TKT605,92.5,,C

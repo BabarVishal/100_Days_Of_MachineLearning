@@ -1,0 +1,238 @@
+{
+    "application_name": "Random Data Generator",
+    "version": "2.1.0",
+    "generated_date": "2024-01-15",
+    "total_entries": 15,
+    "data": [
+        {
+            "id": 1,
+            "name": "Alex Johnson",
+            "email": "alex.johnson@email.com",
+            "age": 28,
+            "city": "New York",
+            "country": "USA",
+            "salary": 75000,
+            "department": "Engineering",
+            "is_active": true,
+            "hobbies": [
+                "hiking",
+                "photography",
+                "coding"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Maria Rodriguez",
+            "email": "m.rodriguez@email.com",
+            "age": 34,
+            "city": "Madrid",
+            "country": "Spain",
+            "salary": 62000,
+            "department": "Marketing",
+            "is_active": true,
+            "hobbies": [
+                "reading",
+                "yoga",
+                "cooking"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Kenji Tanaka",
+            "email": "k.tanaka@email.com",
+            "age": 31,
+            "city": "Tokyo",
+            "country": "Japan",
+            "salary": 85000,
+            "department": "Research",
+            "is_active": false,
+            "hobbies": [
+                "chess",
+                "gardening",
+                "anime"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sarah Miller",
+            "email": "sarah.m@email.com",
+            "age": 26,
+            "city": "Toronto",
+            "country": "Canada",
+            "salary": 58000,
+            "department": "Sales",
+            "is_active": true,
+            "hobbies": [
+                "skiing",
+                "painting"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "David Chen",
+            "email": "d.chen@email.com",
+            "age": 42,
+            "city": "Shanghai",
+            "country": "China",
+            "salary": 92000,
+            "department": "Engineering",
+            "is_active": true,
+            "hobbies": [
+                "martial arts",
+                "reading",
+                "travel"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Lisa Wang",
+            "email": "lisa.w@email.com",
+            "age": 29,
+            "city": "Beijing",
+            "country": "China",
+            "salary": 68000,
+            "department": "Finance",
+            "is_active": true,
+            "hobbies": [
+                "dancing",
+                "music"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "James Wilson",
+            "email": "j.wilson@email.com",
+            "age": 38,
+            "city": "London",
+            "country": "UK",
+            "salary": 79000,
+            "department": "Management",
+            "is_active": true,
+            "hobbies": [
+                "golf",
+                "wine tasting"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Fatima Al-Mansoori",
+            "email": "f.mansoori@email.com",
+            "age": 27,
+            "city": "Dubai",
+            "country": "UAE",
+            "salary": 71000,
+            "department": "Marketing",
+            "is_active": false,
+            "hobbies": [
+                "shopping",
+                "swimming"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Michael Brown",
+            "email": "m.brown@email.com",
+            "age": 45,
+            "city": "Chicago",
+            "country": "USA",
+            "salary": 105000,
+            "department": "Executive",
+            "is_active": true,
+            "hobbies": [
+                "fishing",
+                "woodworking"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Sophie Martin",
+            "email": "s.martin@email.com",
+            "age": 32,
+            "city": "Paris",
+            "country": "France",
+            "salary": 67000,
+            "department": "Design",
+            "is_active": true,
+            "hobbies": [
+                "fashion",
+                "photography"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Carlos Silva",
+            "email": "c.silva@email.com",
+            "age": 33,
+            "city": "S\u00e3o Paulo",
+            "country": "Brazil",
+            "salary": 53000,
+            "department": "Sales",
+            "is_active": true,
+            "hobbies": [
+                "soccer",
+                "cooking"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Anna Kowalski",
+            "email": "a.kowalski@email.com",
+            "age": 30,
+            "city": "Warsaw",
+            "country": "Poland",
+            "salary": 61000,
+            "department": "Engineering",
+            "is_active": true,
+            "hobbies": [
+                "biking",
+                "travel"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Victor Hugo",
+            "email": "v.hugo@email.com",
+            "age": 36,
+            "city": "Lyon",
+            "country": "France",
+            "salary": 72000,
+            "department": "HR",
+            "is_active": false,
+            "hobbies": [
+                "writing",
+                "reading"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Emily Davis",
+            "email": "e.davis@email.com",
+            "age": 25,
+            "city": "Sydney",
+            "country": "Australia",
+            "salary": 54000,
+            "department": "Support",
+            "is_active": true,
+            "hobbies": [
+                "surfing",
+                "painting"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Omar Sheikh",
+            "email": "omar.s@email.com",
+            "age": 40,
+            "city": "Doha",
+            "country": "Qatar",
+            "salary": 88000,
+            "department": "Finance",
+            "is_active": true,
+            "hobbies": [
+                "cricket",
+                "travel",
+                "gym"
+            ]
+        }
+    ]
+}

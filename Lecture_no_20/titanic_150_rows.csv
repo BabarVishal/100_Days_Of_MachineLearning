@@ -1,0 +1,151 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,2,"Taylor, Mrs. Anne",female,64.6,3,2,T79489,28.1991,NaN,C
+2,0,3,"Cumings, Mrs. John Bradley",female,17.0,2,3,T18339,85.0214,NaN,C
+3,1,2,"Bonnell, Miss. Elizabeth",female,63.0,2,1,T56920,145.3535,NaN,S
+4,0,1,"Moran, Mr. James",male,40.8,3,0,T80497,115.0878,NaN,S
+5,0,3,"Allen, Mr. William Henry",male,40.7,1,2,T23281,99.8518,NaN,C
+6,0,3,"Sandstrom, Miss. Marguerite Rut",female,36.6,0,0,T16037,101.193,NaN,Q
+7,1,1,"Brown, Miss. Clara",female,35.8,3,2,T16613,53.9919,NaN,S
+8,1,3,"Cumings, Mrs. John Bradley",female,11.9,3,0,T66793,20.9119,NaN,Q
+9,0,1,"Wilson, Mr. George",male,10.3,3,2,T24258,57.2023,NaN,Q
+10,1,1,"Moran, Mr. James",female,4.4,2,2,T89463,131.0309,NaN,S
+11,1,2,"Moran, Mr. James",male,22.6,0,2,T73676,107.0004,NaN,Q
+12,1,1,"Smith, Mr. John",male,35.3,1,1,T55080,90.8279,NaN,Q
+13,0,3,"Futrelle, Mrs. Jacques Heath",female,51.3,1,3,T28341,79.0736,NaN,Q
+14,0,3,"Brown, Miss. Clara",male,17.6,2,0,T48248,20.3841,NaN,C
+15,1,3,"Cumings, Mrs. John Bradley",female,65.5,1,2,T86245,72.9993,NaN,Q
+16,1,1,"Cumings, Mrs. John Bradley",male,32.8,2,2,T33739,147.5186,NaN,Q
+17,1,1,"Allen, Mr. William Henry",female,10.1,1,2,T59247,59.0345,NaN,C
+18,1,1,"Futrelle, Mrs. Jacques Heath",female,56.6,3,1,T72983,70.0048,NaN,C
+19,0,1,"Moran, Mr. James",male,49.8,2,0,T26890,113.7524,NaN,S
+20,1,3,"Smith, Mr. John",female,36.1,3,2,T69152,50.5809,NaN,S
+21,0,1,"Johnson, Mrs. Oscar W",male,4.9,1,0,T65092,74.4272,NaN,C
+22,0,3,"Moran, Mr. James",male,55.5,0,0,T38841,19.1988,NaN,S
+23,1,1,"Braund, Mr. Owen Harris",male,40.9,0,1,T56973,124.7809,NaN,Q
+24,0,1,"Cumings, Mrs. John Bradley",female,14.0,0,1,T22937,14.7851,NaN,S
+25,0,3,"Johnson, Mrs. Oscar W",male,3.9,0,0,T47818,39.358,NaN,C
+26,0,3,"Taylor, Mrs. Anne",male,29.3,2,2,T19432,5.8569,NaN,S
+27,1,2,"Allen, Mr. William Henry",female,13.0,1,0,T27638,39.5194,NaN,C
+28,0,2,"Wilson, Mr. George",female,43.9,1,1,T14819,72.6601,NaN,S
+29,0,3,"Taylor, Mrs. Anne",male,46.5,1,0,T19877,133.6349,NaN,C
+30,1,1,"Allen, Mr. William Henry",female,54.4,0,1,T13872,88.4562,NaN,S
+31,0,3,"Nasser, Mrs. Nicholas",female,66.3,2,3,T21473,128.7133,NaN,Q
+32,1,2,"Taylor, Mrs. Anne",male,13.8,2,3,T73985,58.167,NaN,S
+33,0,2,"Smith, Mr. John",female,58.0,0,1,T67040,86.1778,NaN,Q
+34,0,3,"Nasser, Mrs. Nicholas",male,67.1,0,2,T52424,67.5189,NaN,Q
+35,1,1,"Sandstrom, Miss. Marguerite Rut",male,45.5,0,0,T61656,11.5772,NaN,C
+36,0,1,"Bonnell, Miss. Elizabeth",male,23.3,2,0,T79788,46.7231,NaN,S
+37,0,1,"Sandstrom, Miss. Marguerite Rut",male,25.2,0,3,T11059,54.9375,NaN,C
+38,1,3,"Brown, Miss. Clara",female,34.7,0,2,T29725,95.4992,NaN,S
+39,1,1,"Sandstrom, Miss. Marguerite Rut",female,60.8,0,0,T48391,37.9796,NaN,Q
+40,1,3,"Nasser, Mrs. Nicholas",female,59.3,3,2,T24923,20.6416,NaN,Q
+41,1,3,"Nasser, Mrs. Nicholas",male,21.2,1,1,T52671,73.2474,NaN,Q
+42,0,1,"Heikkinen, Miss. Laina",female,37.5,1,1,T74143,21.5334,NaN,S
+43,1,3,"Martin, Miss. Laura",male,52.3,0,0,T30456,138.179,NaN,S
+44,1,2,"Sandstrom, Miss. Marguerite Rut",male,69.4,3,3,T13254,117.8519,NaN,Q
+45,0,2,"Cumings, Mrs. John Bradley",male,49.5,2,0,T50671,91.8491,NaN,C
+46,0,1,"Braund, Mr. Owen Harris",female,7.6,1,1,T78338,17.8373,NaN,S
+47,1,2,"Wilson, Mr. George",female,54.1,0,2,T76675,121.0742,NaN,S
+48,0,2,"Smith, Mr. John",male,29.5,1,2,T43859,9.1177,NaN,C
+49,1,3,"Nasser, Mrs. Nicholas",male,4.7,0,3,T63488,104.9897,NaN,S
+50,1,3,"Cumings, Mrs. John Bradley",female,58.4,3,0,T34631,142.3409,NaN,Q
+51,1,1,"Martin, Miss. Laura",female,67.8,3,0,T30173,60.6205,NaN,S
+52,1,3,"Brown, Miss. Clara",male,42.2,3,3,T16917,123.0991,NaN,Q
+53,0,1,"Brown, Miss. Clara",male,5.2,3,0,T97836,82.8423,NaN,C
+54,0,1,"Nasser, Mrs. Nicholas",male,35.0,1,2,T10941,38.6118,NaN,C
+55,1,2,"Futrelle, Mrs. Jacques Heath",female,18.6,1,3,T62420,40.8319,NaN,Q
+56,1,1,"Braund, Mr. Owen Harris",male,35.7,2,0,T68911,94.0213,NaN,C
+57,1,3,"Allen, Mr. William Henry",male,22.9,0,2,T82000,99.9228,NaN,C
+58,1,3,"Sandstrom, Miss. Marguerite Rut",male,4.0,1,2,T26152,43.0475,NaN,S
+59,1,3,"Braund, Mr. Owen Harris",female,1.8,3,1,T15330,113.487,NaN,S
+60,1,2,"Futrelle, Mrs. Jacques Heath",female,55.2,3,2,T77548,141.0758,NaN,C
+61,0,1,"Cumings, Mrs. John Bradley",male,41.4,2,2,T40910,126.3211,NaN,C
+62,1,3,"Martin, Miss. Laura",male,67.9,3,2,T70554,48.6419,NaN,Q
+63,1,3,"Allen, Mr. William Henry",female,62.0,0,0,T59978,58.053,NaN,Q
+64,0,1,"Heikkinen, Miss. Laina",female,8.4,3,2,T74728,62.9247,NaN,Q
+65,0,1,"Sandstrom, Miss. Marguerite Rut",male,47.4,1,3,T95817,112.4419,NaN,C
+66,0,2,"Sandstrom, Miss. Marguerite Rut",female,68.4,2,3,T24843,100.4971,NaN,S
+67,1,3,"Martin, Miss. Laura",female,33.6,3,2,T43025,115.0704,NaN,C
+68,0,3,"Johnson, Mrs. Oscar W",female,20.4,2,0,T12229,5.3458,NaN,C
+69,1,3,"Braund, Mr. Owen Harris",male,35.1,0,1,T24864,73.7152,NaN,Q
+70,0,2,"Braund, Mr. Owen Harris",male,41.2,1,1,T42139,29.8941,NaN,S
+71,0,1,"Cumings, Mrs. John Bradley",male,61.3,2,2,T22041,52.7138,NaN,C
+72,1,3,"Smith, Mr. John",male,9.7,0,2,T91855,132.0339,NaN,Q
+73,0,3,"Johnson, Mrs. Oscar W",female,32.0,0,0,T37457,111.6515,NaN,Q
+74,1,2,"Braund, Mr. Owen Harris",female,39.0,0,2,T78018,61.1213,NaN,C
+75,1,1,"Heikkinen, Miss. Laina",male,15.8,3,3,T48214,120.0844,NaN,Q
+76,0,3,"Sandstrom, Miss. Marguerite Rut",male,1.0,0,1,T92999,63.945,NaN,Q
+77,0,1,"Moran, Mr. James",female,10.0,3,2,T82389,27.2271,NaN,C
+78,1,2,"Smith, Mr. John",male,59.9,2,2,T54339,12.524,NaN,C
+79,1,2,"Allen, Mr. William Henry",male,20.4,3,0,T36960,59.4024,NaN,C
+80,1,3,"Martin, Miss. Laura",male,7.6,3,3,T25660,95.9897,NaN,S
+81,0,2,"Allen, Mr. William Henry",male,39.0,1,2,T16222,35.2594,NaN,S
+82,1,2,"Cumings, Mrs. John Bradley",male,54.1,2,3,T62078,107.6561,NaN,C
+83,1,1,"Wilson, Mr. George",male,68.3,1,0,T60101,148.544,NaN,S
+84,0,1,"Johnson, Mrs. Oscar W",female,27.0,1,1,T48776,56.2991,NaN,Q
+85,1,3,"Smith, Mr. John",female,6.3,1,1,T50265,128.7527,NaN,S
+86,1,2,"Sandstrom, Miss. Marguerite Rut",male,53.8,3,0,T46991,85.0656,NaN,S
+87,0,1,"Smith, Mr. John",male,58.4,0,0,T26339,12.7385,NaN,C
+88,1,2,"Johnson, Mrs. Oscar W",female,35.7,3,2,T76291,147.7635,NaN,Q
+89,0,2,"Futrelle, Mrs. Jacques Heath",female,63.7,2,1,T34561,85.6037,NaN,S
+90,1,2,"Taylor, Mrs. Anne",male,62.9,1,0,T24443,67.814,NaN,C
+91,0,2,"Martin, Miss. Laura",female,63.0,0,1,T21421,113.8483,NaN,C
+92,1,2,"Martin, Miss. Laura",female,47.0,1,1,T74152,95.209,NaN,C
+93,0,3,"Johnson, Mrs. Oscar W",female,42.3,0,0,T43519,149.8809,NaN,Q
+94,0,1,"Bonnell, Miss. Elizabeth",female,40.5,0,2,T46750,47.9332,NaN,Q
+95,0,2,"Wilson, Mr. George",female,34.3,3,0,T87807,98.3061,NaN,Q
+96,1,3,"Johnson, Mrs. Oscar W",male,41.6,3,2,T44589,121.3372,NaN,S
+97,1,1,"Smith, Mr. John",male,40.5,3,2,T33976,38.4266,NaN,S
+98,0,3,"Johnson, Mrs. Oscar W",female,40.3,1,1,T97669,98.6912,NaN,C
+99,0,3,"Futrelle, Mrs. Jacques Heath",male,23.2,2,3,T69480,136.4471,NaN,S
+100,0,2,"Martin, Miss. Laura",male,18.4,1,2,T86563,120.2431,NaN,C
+101,1,2,"Futrelle, Mrs. Jacques Heath",female,62.2,0,0,T46598,137.9956,NaN,Q
+102,1,1,"Allen, Mr. William Henry",male,34.0,0,0,T36902,88.5885,NaN,C
+103,1,1,"Futrelle, Mrs. Jacques Heath",male,2.7,1,0,T16779,124.6716,NaN,S
+104,0,1,"Martin, Miss. Laura",female,53.5,1,2,T77557,17.9508,NaN,C
+105,1,2,"Moran, Mr. James",male,2.1,2,1,T41312,76.0761,NaN,C
+106,1,3,"Allen, Mr. William Henry",male,17.8,1,2,T67849,119.9551,NaN,C
+107,0,2,"Braund, Mr. Owen Harris",male,16.8,3,2,T66690,83.4013,NaN,Q
+108,0,2,"Braund, Mr. Owen Harris",male,64.7,2,0,T51152,39.1254,NaN,Q
+109,0,1,"Bonnell, Miss. Elizabeth",male,27.3,3,1,T32309,60.9254,NaN,Q
+110,1,1,"Futrelle, Mrs. Jacques Heath",female,35.4,1,0,T91592,140.5057,NaN,Q
+111,0,2,"Sandstrom, Miss. Marguerite Rut",female,36.8,0,0,T84552,62.0236,NaN,S
+112,1,1,"Sandstrom, Miss. Marguerite Rut",female,59.5,1,0,T17839,45.2748,NaN,Q
+113,1,2,"Wilson, Mr. George",male,16.4,2,3,T39172,132.0857,NaN,Q
+114,1,3,"Wilson, Mr. George",male,45.4,2,3,T24199,31.3168,NaN,S
+115,1,1,"Allen, Mr. William Henry",female,28.2,1,2,T72830,113.1674,NaN,C
+116,0,2,"Moran, Mr. James",female,18.0,0,1,T11179,77.0566,NaN,Q
+117,1,1,"Braund, Mr. Owen Harris",female,10.1,1,2,T25209,90.6167,NaN,S
+118,0,2,"Taylor, Mrs. Anne",female,56.9,2,2,T68239,58.1122,NaN,S
+119,1,1,"Sandstrom, Miss. Marguerite Rut",male,67.1,2,2,T95382,55.236,NaN,Q
+120,1,1,"Wilson, Mr. George",male,69.6,2,1,T50527,74.2783,NaN,S
+121,0,1,"Taylor, Mrs. Anne",male,69.1,1,1,T21070,32.09,NaN,Q
+122,0,3,"Braund, Mr. Owen Harris",male,45.2,0,1,T79776,33.1584,NaN,Q
+123,1,1,"Nasser, Mrs. Nicholas",male,23.6,3,3,T67903,45.3692,NaN,C
+124,0,2,"Braund, Mr. Owen Harris",female,67.7,1,0,T73397,145.2998,NaN,S
+125,1,1,"Wilson, Mr. George",female,51.8,3,3,T85586,136.9226,NaN,Q
+126,1,1,"Allen, Mr. William Henry",female,16.4,3,0,T75927,117.3813,NaN,C
+127,1,1,"Cumings, Mrs. John Bradley",female,29.0,1,0,T99711,44.3087,NaN,C
+128,0,1,"Heikkinen, Miss. Laina",male,6.8,1,0,T79346,32.3865,NaN,S
+129,1,3,"Futrelle, Mrs. Jacques Heath",female,59.6,3,2,T24710,68.5008,NaN,Q
+130,0,1,"Allen, Mr. William Henry",male,31.6,2,0,T44141,26.8064,NaN,C
+131,0,1,"Johnson, Mrs. Oscar W",male,1.2,3,2,T66984,144.5924,NaN,Q
+132,1,2,"Johnson, Mrs. Oscar W",female,6.2,1,3,T38462,29.3125,NaN,C
+133,1,3,"Bonnell, Miss. Elizabeth",male,51.2,3,2,T74150,78.5784,NaN,S
+134,0,1,"Brown, Miss. Clara",female,41.7,3,3,T35870,17.4664,NaN,S
+135,0,3,"Nasser, Mrs. Nicholas",male,10.9,2,2,T77220,15.6436,NaN,S
+136,1,3,"Braund, Mr. Owen Harris",female,31.0,0,0,T43225,28.6522,NaN,C
+137,0,3,"Brown, Miss. Clara",female,32.9,2,1,T31014,18.2819,NaN,S
+138,0,1,"Sandstrom, Miss. Marguerite Rut",male,69.8,3,2,T60087,9.4031,NaN,Q
+139,1,1,"Allen, Mr. William Henry",male,56.1,1,3,T27427,70.7665,NaN,C
+140,0,2,"Taylor, Mrs. Anne",male,67.5,3,2,T49325,35.8576,NaN,C
+141,0,2,"Brown, Miss. Clara",female,61.0,1,3,T86525,28.6907,NaN,S
+142,0,2,"Nasser, Mrs. Nicholas",male,13.1,0,2,T71512,130.8398,NaN,S
+143,0,1,"Brown, Miss. Clara",female,30.8,3,3,T66891,122.95,NaN,Q
+144,0,1,"Johnson, Mrs. Oscar W",male,52.3,1,3,T97981,80.4275,NaN,C
+145,0,3,"Smith, Mr. John",male,24.6,0,2,T85430,68.8924,NaN,S
+146,0,3,"Allen, Mr. William Henry",female,68.0,0,2,T38326,24.7081,NaN,Q
+147,0,3,"Futrelle, Mrs. Jacques Heath",male,29.2,1,1,T99864,103.9017,NaN,Q
+148,0,2,"Johnson, Mrs. Oscar W",female,11.8,1,2,T45838,117.4025,NaN,C
+149,1,1,"Braund, Mr. Owen Harris",female,57.7,2,0,T33023,124.3455,NaN,C
+150,0,1,"Bonnell, Miss. Elizabeth",female,56.5,2,1,T59342,118.9403,NaN,Q
